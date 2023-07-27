@@ -1,1 +1,1 @@
-My first readme
+Finally  know how to change commit from here
